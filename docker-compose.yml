@@ -1,0 +1,5 @@
+version: '2'
+services:
+  redash_dashboard_copy:
+    build: .
+    tty: true

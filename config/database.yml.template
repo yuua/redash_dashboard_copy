@@ -1,0 +1,13 @@
+db:
+  production:
+    gateway_host: 
+    gateway_key: 
+    redash_db_host: 
+    username: 
+    password: 
+  development:
+    gateway_host: 
+    gateway_key: 
+    redash_db_host: 
+    username: 
+    password: 
